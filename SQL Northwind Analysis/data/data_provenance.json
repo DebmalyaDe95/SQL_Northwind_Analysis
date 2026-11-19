@@ -1,0 +1,17 @@
+{
+  "source_repository": "https://github.com/jpwhite3/northwind-SQLite3",
+  "source_script": "https://raw.githubusercontent.com/jpwhite3/northwind-SQLite3/main/src/create.sql",
+  "database": "Microsoft Northwind sample converted to SQLite; MIT-licensed repository port",
+  "retrieved_utc": "2026-11-19T08:11:51.768767+00:00",
+  "sha256_source_sql": "5854b536dea3fe8c586223bf7b47a793727dd44c34fc32537a68a97fec8e2f4b",
+  "sha256_database": "018b3e45190dfd33e770d625f7dcb35f408ac6bd6064602ae34e3d2a9dd121df",
+  "row_counts": {
+    "Orders": 830,
+    "Order Details": 2155,
+    "Customers": 93
+  },
+  "date_range": {
+    "first_order": "1996-07-04",
+    "last_order": "1998-05-06"
+  }
+}

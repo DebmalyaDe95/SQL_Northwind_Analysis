@@ -1,0 +1,133 @@
+[
+  {
+    "question_number": 1,
+    "question": "How did net sales change month over month?",
+    "rows_returned": 23,
+    "result_file": "Q01_results.csv",
+    "columns": [
+      "sales_month",
+      "net_sales",
+      "change_vs_prior_month",
+      "pct_change"
+    ]
+  },
+  {
+    "question_number": 2,
+    "question": "Which product categories generate the most revenue, and what is each category's share?",
+    "rows_returned": 8,
+    "result_file": "Q02_results.csv",
+    "columns": [
+      "CategoryName",
+      "net_sales",
+      "pct_of_sales",
+      "sales_rank"
+    ]
+  },
+  {
+    "question_number": 3,
+    "question": "What are the top three products by net sales within each category?",
+    "rows_returned": 24,
+    "result_file": "Q03_results.csv",
+    "columns": [
+      "CategoryName",
+      "category_rank",
+      "ProductName",
+      "net_sales",
+      "units_sold"
+    ]
+  },
+  {
+    "question_number": 4,
+    "question": "Which customers have the highest lifetime net sales within each country?",
+    "rows_returned": 50,
+    "result_file": "Q04_results.csv",
+    "columns": [
+      "Country",
+      "country_rank",
+      "CompanyName",
+      "order_count",
+      "lifetime_net_sales"
+    ]
+  },
+  {
+    "question_number": 5,
+    "question": "How do employees rank by annual net sales?",
+    "rows_returned": 27,
+    "result_file": "Q05_results.csv",
+    "columns": [
+      "sales_year",
+      "annual_rank",
+      "employee",
+      "orders_handled",
+      "net_sales"
+    ]
+  },
+  {
+    "question_number": 6,
+    "question": "Which shippers are most reliable against required delivery dates?",
+    "rows_returned": 3,
+    "result_file": "Q06_results.csv",
+    "columns": [
+      "shipper",
+      "shipped_orders",
+      "on_time_orders",
+      "on_time_pct",
+      "avg_days_order_to_ship",
+      "avg_late_days"
+    ]
+  },
+  {
+    "question_number": 7,
+    "question": "Which repeat customers place at least three orders, and how often do they reorder?",
+    "rows_returned": 86,
+    "result_file": "Q07_results.csv",
+    "columns": [
+      "CompanyName",
+      "Country",
+      "order_count",
+      "avg_days_between_orders"
+    ]
+  },
+  {
+    "question_number": 8,
+    "question": "How much sales value is associated with each discount band?",
+    "rows_returned": 4,
+    "result_file": "Q08_results.csv",
+    "columns": [
+      "discount_band",
+      "line_items",
+      "units",
+      "gross_sales",
+      "net_sales",
+      "effective_discount_pct"
+    ]
+  },
+  {
+    "question_number": 9,
+    "question": "Which products are at or below their reorder point, and who supplies them?",
+    "rows_returned": 18,
+    "result_file": "Q09_results.csv",
+    "columns": [
+      "ProductName",
+      "CategoryName",
+      "supplier",
+      "UnitsInStock",
+      "UnitsOnOrder",
+      "ReorderLevel",
+      "units_below_reorder_point"
+    ]
+  },
+  {
+    "question_number": 10,
+    "question": "Which ship-to countries contribute the most net sales?",
+    "rows_returned": 21,
+    "result_file": "Q10_results.csv",
+    "columns": [
+      "ShipCountry",
+      "order_count",
+      "net_sales",
+      "pct_of_sales",
+      "country_rank"
+    ]
+  }
+]

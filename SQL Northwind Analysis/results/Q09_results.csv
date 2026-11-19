@@ -1,0 +1,19 @@
+﻿ProductName,CategoryName,supplier,UnitsInStock,UnitsOnOrder,ReorderLevel,units_below_reorder_point
+Gorgonzola Telino,Dairy Products,Formaggi Fortini s.r.l.,0,70,20,20
+Louisiana Hot Spiced Okra,Condiments,New Orleans Cajun Delights,4,100,20,16
+Mascarpone Fabioli,Dairy Products,Formaggi Fortini s.r.l.,9,40,25,16
+Outback Lager,Beverages,"Pavlova, Ltd.",15,10,30,15
+Gravad lax,Seafood,Svensk Sjöföda AB,11,50,25,14
+Aniseed Syrup,Condiments,Exotic Liquids,13,70,25,12
+Rogede sild,Seafood,Lyngbysild,5,70,15,10
+Chocolade,Confections,Zaanse Snoepfabriek,15,70,25,10
+Scottish Longbreads,Confections,"Specialty Biscuits, Ltd.",6,10,15,9
+Gnocchi di nonna Alice,Grains/Cereals,Pasta Buttini s.r.l.,21,10,30,9
+Chang,Beverages,Exotic Liquids,17,40,25,8
+Ipoh Coffee,Beverages,Leka Trading,17,10,25,8
+Queso Cabrales,Dairy Products,Cooperativa de Quesos 'Las Cabras',22,30,30,8
+Wimmers gute Semmelknödel,Grains/Cereals,Plutzer Lebensmittelgroßmärkte AG,22,80,30,8
+Nord-Ost Matjeshering,Seafood,Nord-Ost-Fisch Handelsgesellschaft mbH,10,0,15,5
+Maxilaku,Confections,Karkki Oy,10,60,15,5
+Sir Rodney's Scones,Confections,"Specialty Biscuits, Ltd.",3,40,5,2
+Longlife Tofu,Produce,Tokyo Traders,4,20,5,1

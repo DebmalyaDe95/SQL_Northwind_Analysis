@@ -1,0 +1,4 @@
+﻿shipper,shipped_orders,on_time_orders,on_time_pct,avg_days_order_to_ship,avg_late_days
+Federal Shipping,249,240,96.4,7.5,0.2
+Speedy Express,245,233,95.1,8.6,0.4
+United Package,315,299,94.9,9.2,0.3

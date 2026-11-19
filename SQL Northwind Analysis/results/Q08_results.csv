@@ -1,0 +1,5 @@
+﻿discount_band,line_items,units,gross_sales,net_sales,effective_discount_pct
+No discount,1317,28599,750698.61,750698.61,0.0
+Up to 10%,366,9562,257417.07,239468.58,6.97
+10%-20%,318,8807,214424.82,176687.28,17.6
+Above 20%,154,4349,131918.09,98938.57,25.0
